@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="270" viewBox="0 0 1280 270" role="img" aria-label="Sulaiman Sabry build board: digital experiences, software products and business automation">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071221"/><stop offset="1" stop-color="#111F37"/></linearGradient>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4CE0EB"/><stop offset="1" stop-color="#518BF3"/></linearGradient>
+  </defs>
+  <rect width="1280" height="270" fill="url(#bg)"/>
+  <path d="M28 66H1252M28 231H1252" stroke="#3D6078" stroke-opacity=".55"/>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <text x="29" y="45" fill="#73D9E5" font-size="13" letter-spacing="3">THE BUILD BOARD</text>
+    <text x="1251" y="45" fill="#7597B0" font-size="12" letter-spacing="2" text-anchor="end">PLAN / DESIGN / DEVELOP / DELIVER</text>
+    <rect x="28" y="84" width="391" height="130" rx="13" fill="#122A43" stroke="#355C75"/>
+    <text x="51" y="117" fill="url(#a)" font-size="17" font-weight="700">01</text>
+    <text x="100" y="117" fill="#EFF8FF" font-size="23" font-weight="600">DIGITAL EXPERIENCES</text>
+    <text x="51" y="154" fill="#AAC4D4" font-size="16">Websites / Interfaces / Commerce</text>
+    <text x="51" y="183" fill="#6F9CB7" font-size="13">Design that people want to use.</text>
+    <rect x="445" y="84" width="391" height="130" rx="13" fill="#122A43" stroke="#355C75"/>
+    <text x="467" y="117" fill="url(#a)" font-size="17" font-weight="700">02</text>
+    <text x="516" y="117" fill="#EFF8FF" font-size="23" font-weight="600">BUSINESS SOFTWARE</text>
+    <text x="468" y="154" fill="#AAC4D4" font-size="16">Dashboards / Tools / Platforms</text>
+    <text x="468" y="183" fill="#6F9CB7" font-size="13">Useful systems. Thoughtful details.</text>
+    <rect x="862" y="84" width="390" height="130" rx="13" fill="#122A43" stroke="#355C75"/>
+    <text x="884" y="117" fill="url(#a)" font-size="17" font-weight="700">03</text>
+    <text x="933" y="117" fill="#EFF8FF" font-size="23" font-weight="600">CONNECTED WORKFLOWS</text>
+    <text x="885" y="154" fill="#AAC4D4" font-size="16">Integrations / Systems / Automation</text>
+    <text x="885" y="183" fill="#6F9CB7" font-size="13">Less friction. More room to grow.</text>
+    <text x="29" y="253" fill="#6992A9" font-size="11" letter-spacing="2">CO-FOUNDER @ KAWN LABS</text>
+    <text x="1250" y="253" fill="#6992A9" font-size="11" text-anchor="end" letter-spacing="2">BUILT BY @SPARK014</text>
+  </g>
+</svg>
