@@ -51,16 +51,6 @@ I'm interested in the space where **engineering, design and business** meet. I l
 
 <sub>Tools used in my projects and learning journey — always building on the stack.</sub>
 
-### Selected builds
-
-| Project | What it explores |
-|:--|:--|
-| **[The Choice](https://github.com/Spark014/TheChoice2)** | A luxury e-commerce experience with a strong focus on design and interaction |
-| **[Najm Guides](https://github.com/Spark014/najmguides)** | A digital experience for guided Umrah and travel journeys |
-| **[VisuaLit](https://github.com/Spark014/visualit_web)** | A web interface for exploratory reading and discovery |
-| **[Quote Calculator](https://github.com/Spark014/ratecalculator)** | A practical jewelry quotation calculator built with Next.js |
-| **[YouLanka](https://github.com/Spark014/youlanka)** | Web work in the travel space |
-
 ### Currently focused on
 
 - Building useful websites, business applications, and digital systems through **Kawn Labs**.
